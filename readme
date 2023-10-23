@@ -1,0 +1,19 @@
+# FILEPATH: app.py
+"""
+Streamlit Data Profiler and ML app
+
+This app allows you to upload a CSV or connect to a PostgreSQL and generate a data profile with data quality metrics and descriptive statistics. 
+You can also perform machine learning tasks such as regression and classification on the uploaded dataset.
+
+Usage:
+    1. Install the required libraries using `pip install -r requirements.txt`
+    2. Run the app using `streamlit run app.py`
+    3. Upload a CSV file using the file uploader widget or connect to a PostgreSQL database using the database connection widget
+
+Author: August Tollerup
+"""
+
+# Your code goes here
+```bash
+streamlit run app.py
+```
